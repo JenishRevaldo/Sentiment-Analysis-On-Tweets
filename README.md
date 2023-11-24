@@ -13,7 +13,3 @@ The purpose of this sentiment analysis script is to capture and analyze the sent
 ## Note
 
 This script may not effectively scrape data from Twitter using `snscrape` due to changes in Twitter's policies. Consider using alternative approaches, such as the Twitter API with libraries like Tweepy, for reliable access to Twitter data.
-
-## Alternative Approach
-
-Consider using the Twitter API with libraries like Tweepy for a more reliable and sanctioned method of accessing Twitter data. Ensure you comply with Twitter's Developer Agreement and Policy.
